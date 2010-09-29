@@ -1,0 +1,11 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  owner: 
+  instrument_type: MyString
+  instrument_id: 1
+
+two:
+  owner: 
+  instrument_type: MyString
+  instrument_id: 1
